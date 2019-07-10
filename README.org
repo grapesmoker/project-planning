@@ -1,1 +1,32 @@
-Planning document for programming projects
+#+TITLE: Planning document for programming projects
+#+AUTHOR: Jerry Vinokurov
+
+* New QEMS3 website
+  - Angular frontend
+  - Django Rest Framework backend
+  - ClarityUI
+  - Automated deploy
+
+* QB question parser
+  - Use a proper parser combinator
+    - ANTLR? mpc? pyparsing?
+
+* Book organizing project
+  - Port to web-based interface?
+
+* NBA stuff
+  - collect data for latest seasons
+  - write up modeling code
+
+* cl-sfml
+  - finish implementation against latest version
+  - tests
+
+* cl-geom
+  - implement standard geometrical algorithms 
+
+* interval math in lisp
+
+* roguelike project
+  - use godot? python?
+
